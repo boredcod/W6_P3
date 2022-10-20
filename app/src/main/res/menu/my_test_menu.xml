@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/merchandise"
+        android:title="Merchandise"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+        >
+    </item>
+    <item
+        android:id="@+id/nuclearWessels"
+        android:title="Nuclear Wessels"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+        >
+    </item>
+    <item
+        android:id="@+id/phasers"
+        android:title="Phasers on Stun"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+        >
+    </item>
+    <item
+        android:id="@+id/liveLong"
+        android:title="Live Long and Prosper"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+       >
+    </item>
+    <item
+        android:id="@+id/khan"
+        android:title="Kahn!!!"
+        android:icon ="@drawable/ic_local_florist_black_24dp"
+        >
+    </item>
+</menu>
